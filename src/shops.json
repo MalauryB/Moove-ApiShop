@@ -1,0 +1,134 @@
+{
+    "shops" :
+        [
+            {
+                "shopId" : 1,
+                "name" : "La piscine Marius-Leclercq",
+                "address" : "99 Avenue Barbusse, 62440 Harnes",
+                "description" : "La piscine Marius-Leclercq est située en plein centre de la ville dans la rue Barbusse. Différentes spécialités sportives y sont proposées. Un bassin de 25 mètres de long vous accueille du lundi au dimanche ainsi qu’un petit bain pour les activités comme l’aquagym, l’aquadouce ou le jardin aquatique.",
+                "email" : "piscinemariusleclercq@contact.fr",
+                "phone" : "03 21 13 96 00",
+                "localisation" : {
+                    "lat" : 50.450157165527344,
+                    "long" : 2.898190498352051
+                },
+                "vidoLink" : "https://www.youtube.com/watch?v=rqDEgCBYMxA&ab_channel=AvallonVision",
+                "pictures" : [
+                    {
+                        "idPicture" : 1,
+                        "link" : "https://zupimages.net/up/21/02/cpri.jpg"
+                    },
+                    {
+                        "idPicture" : 2,
+                        "link" : "https://zupimages.net/up/21/02/3mkk.jpg"
+                    }
+                ],
+                "openShop" : [
+                    {
+                        "dayWeek" : "Monday",
+                        "hourStart" : "12:00:00",
+                        "endHour" : "13:00:00"
+                    },
+                    {
+                        "dayWeek" : "Monday",
+                        "hourStart" : "16:15:00",
+                        "endHour" : "19:00:00"
+                    },
+                    {
+                        "dayWeek" : "Tuesday",
+                        "hourStart" : "16:15:00",
+                        "endHour" : "19:00:00"
+                    },
+                    {
+                        "dayWeek" : "Thursday",
+                        "hourStart" : "10:00:00",
+                        "endHour" : "13:30:00"
+                    },
+                    {
+                        "dayWeek" : "Thursday",
+                        "hourStart" : "14:00:00",
+                        "endHour" : "19:15:00"
+                    },
+                    {
+                        "dayWeek" : "Saturday",
+                        "hourStart" : "10:00:00",
+                        "endHour" : "12:00:00"
+                    },
+                    {
+                        "dayWeek" : "Saturday",
+                        "hourStart" : "14:00:00",
+                        "endHour" : "17:00:00"
+                    },
+                    {
+                        "dayWeek" : "Sunday",
+                        "hourStart" : "8:00:00",
+                        "endHour" : "12:00:00"
+                    }
+
+                ]
+            },
+            {
+                "shopId" : 2,
+                "name" : "Climb up",
+                "address" : "Plaine sportive, 110 Rue Jean Jaurès, 59810 Lesquin",
+                "description" : "Depuis plus de 15 ans nous cultivons la diversité au sein de nos structures. Diversité de profils, de visions et de sensibilités. Nos nombreux échanges ont ainsi donné jour à un concept de salles d’escalade pensées comme des lieux de vie ouverts à tous.",
+                "email" : "climbup@contact.fr",
+                "phone" : "03 20 07 57 42",
+                "localisation" : {
+                    "lat" : 50.5865602,
+                    "long" : 3.1071495
+                },
+                "vidoLink" : "https://www.youtube.com/watch?v=3-3a9GghAR0&ab_channel=ClimbUp",
+                "pictures" : [
+                    {
+                        "idPicture" : 3,
+                        "link" : "https://zupimages.net/up/21/02/z8st.jpg"
+                    },
+                    {
+                        "idPicture" : 4,
+                        "link" : "https://zupimages.net/up/21/02/6yh3.jpg"
+                    }
+                ],
+                "openShop" : [
+                    {
+                        "dayWeek" : "Monday",
+                        "hourStart" : "8:00:00",
+                        "endHour" : "23:00:00"
+                    },
+                    {
+                        "dayWeek" : "Tuesday",
+                        "hourStart" : "8:00:00",
+                        "endHour" : "23:00:00"
+                    },
+                    {
+                        "dayWeek" : "Wednesday",
+                        "hourStart" : "8:00:00",
+                        "endHour" : "23:00:00"
+                    }
+                    ,
+                    {
+                        "dayWeek" : "Thursday",
+                        "hourStart" : "8:00:00",
+                        "endHour" : "23:00:00"
+                    }
+                    ,
+                    {
+                        "dayWeek" : "Friday",
+                        "hourStart" : "8:00:00",
+                        "endHour" : "23:00:00"
+                    }
+                    ,
+                    {
+                        "dayWeek" : "Saturday",
+                        "hourStart" : "10:00:00",
+                        "endHour" : "23:00:00"
+                    },
+                    {
+                        "dayWeek" : "Sunday",
+                        "hourStart" : "8:00:00",
+                        "endHour" : "12:00:00"
+                    }
+                ]
+            }
+        ]
+}
