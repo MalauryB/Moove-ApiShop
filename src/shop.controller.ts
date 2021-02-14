@@ -1,6 +1,7 @@
 import { Controller, Get, HttpStatus, Res } from '@nestjs/common';
 import { Response} from 'express';
-import data = require('./shops.json');
+import dataShops = require('./shops.json');
+import dataShopId = require('./shopId.json');
 
 @Controller('shop')
 export class ShopController {
@@ -8,6 +9,11 @@ export class ShopController {
 
   @Get('shops')
   getAll(@Res() res : Response) {
-    res.status(HttpStatus.OK).json(data);
+    res.status(HttpStatus.OK).json(dataShops);
+  }
+
+  @Get('shop/:id')
+  getShopById(@Res() res : Response) {
+    res.status(HttpStatus.OK).json(dataShopId);
   }
 }

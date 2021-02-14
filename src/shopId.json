@@ -1,0 +1,73 @@
+{
+    "shopId":1,
+    "name":"La piscine Marius-Leclercq",
+    "address":"99 Avenue Barbusse, 62440 Harnes",
+    "description":"La piscine Marius-Leclercq est située en plein centre de la ville dans la rue Barbusse. Différentes spécialités sportives y sont proposées. Un bassin de 25 mètres de long vous accueille du lundi au dimanche ainsi qu’un petit bain pour les activités comme l’aquagym, l’aquadouce ou le jardin aquatique.",
+    "email":"piscinemariusleclercq@contact.fr",
+    "phone":"03 21 13 96 00",
+    "localisation":{
+       "lat":50.450157165527344,
+       "long":2.898190498352051
+    },
+    "vidoLink":"https://www.youtube.com/watch?v=rqDEgCBYMxA&ab_channel=AvallonVision",
+    "pictures":[
+       {
+          "idPicture":1,
+          "link":"https://zupimages.net/up/21/02/cpri.jpg"
+       },
+       {
+          "idPicture":2,
+          "link":"https://zupimages.net/up/21/02/3mkk.jpg"
+       }
+    ],
+    "openShop":[
+       {
+          "dayWeek":"Monday",
+          "hourStart":"12:00:00",
+          "endHour":"13:00:00",
+          "location": 1
+       },
+       {
+          "dayWeek":"Monday",
+          "hourStart":"16:15:00",
+          "endHour":"19:00:00",
+          "location": 2
+       },
+       {
+          "dayWeek":"Tuesday",
+          "hourStart":"16:15:00",
+          "endHour":"19:00:00",
+          "location": 1
+       },
+       {
+          "dayWeek":"Thursday",
+          "hourStart":"10:00:00",
+          "endHour":"13:30:00",
+          "location": 1
+       },
+       {
+          "dayWeek":"Thursday",
+          "hourStart":"14:00:00",
+          "endHour":"19:15:00",
+          "location": 2
+       },
+       {
+          "dayWeek":"Saturday",
+          "hourStart":"10:00:00",
+          "endHour":"12:00:00",
+          "location": 1
+       },
+       {
+          "dayWeek":"Saturday",
+          "hourStart":"14:00:00",
+          "endHour":"17:00:00",
+          "location": 2
+       },
+       {
+          "dayWeek":"Sunday",
+          "hourStart":"8:00:00",
+          "endHour":"12:00:00",
+          "location": 1
+       }
+    ]
+ }
