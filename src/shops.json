@@ -8,6 +8,7 @@
                 "description" : "La piscine Marius-Leclercq est située en plein centre de la ville dans la rue Barbusse. Différentes spécialités sportives y sont proposées. Un bassin de 25 mètres de long vous accueille du lundi au dimanche ainsi qu’un petit bain pour les activités comme l’aquagym, l’aquadouce ou le jardin aquatique.",
                 "email" : "piscinemariusleclercq@contact.fr",
                 "phone" : "03 21 13 96 00",
+                "logo_picture": "https://zupimages.net/up/21/06/934y.png",
                 "localisation" : {
                     "lat" : 50.450157165527344,
                     "long" : 2.898190498352051
@@ -74,6 +75,7 @@
                 "description" : "Depuis plus de 15 ans nous cultivons la diversité au sein de nos structures. Diversité de profils, de visions et de sensibilités. Nos nombreux échanges ont ainsi donné jour à un concept de salles d’escalade pensées comme des lieux de vie ouverts à tous.",
                 "email" : "climbup@contact.fr",
                 "phone" : "03 20 07 57 42",
+                "logo_picture": "https://zupimages.net/up/21/06/a8ai.jpg",
                 "localisation" : {
                     "lat" : 50.5865602,
                     "long" : 3.1071495
